@@ -26,7 +26,7 @@ This project proposes a system that uses blockchain and AI for the safe supply o
 
 ### To run React development server :hammer_and_wrench:
 ```bash
-cd blockchain
+cd pharma
 npm install
 npm start
 ```
