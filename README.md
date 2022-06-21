@@ -13,10 +13,6 @@ My solution is an amalgamation of two powerful technologies - Blockchain and AI.
 This project proposes a system that uses blockchain and AI for the safe supply of medical drugs throughout the supply chain. Each product within the chain can be transferred between authenticated entities of the chain using an event request-response mechanism. All transactions between entities are recorded into the blockchain using smart contracts with the help of which a product can be traced to its source. A Rasa chatbot is integrated to enable ordering, tracing medicine supply paths, and enhancing blockchain-based credit evaluation. A DApp was then developed using React Framework. The smart contracts were deployed on a local blockchain provided by Ganache. Using Web3.js and Truffle framework, DApp is connected to the blockchain. The experimental results show that our solution is feasible and comparatively more secure than existing systems.
 
 
-### System Design :computer:
-![pharma-sc](https://user-images.githubusercontent.com/89874146/171622227-101cf5ad-c90e-448e-8676-5571b22201da.png)
-
-
 ### To deploy the Smart Contract :moneybag:
 1. Install Ganache and create a workspace.
 2. Install Truffle npm package globally by running ```npm install -g truffle```.
