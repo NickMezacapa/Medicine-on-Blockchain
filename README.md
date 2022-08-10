@@ -27,7 +27,7 @@ npm install
 npm start
 ```
 
-### To run Node.js server :hammer_and_wrench:
+### To run Node.js server 
 ```bash
 cd server
 npm install
